@@ -27,4 +27,4 @@ if __name__ == "__main__":
     # Test case 2
     gas2 = [2, 3, 4]
     cost2 = [3, 4, 3]
-    print(f"Gas: {gas2}, Cost: {cost2} | Start Index: {solution.canCompleteCircuit(gas2, cost2)}")
+    print(f"Gas: {gas2}, Cost: {cost2} | Start Index: {solution.canCompleteCircuit(gas2, cost2)}")
